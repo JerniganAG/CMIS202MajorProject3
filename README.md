@@ -1,5 +1,4 @@
 # CMIS202MajorProject3
-Part 3 – Trees, Graphs, and Hashing:
 Major Project Assignment Parts 1
 
 Who Are The Users? The users for this program are book enthusiast who want a digital library of their collections of books.
@@ -11,3 +10,9 @@ Where and when will the software be used? If user has small book collection and 
 How does the software work? The software works by user clicking on buttons at the bottom of the screen and typing in the information required; to add new book user clicks NewBook button and user is promted to enter the correct details of the book title, authors name, genre, page count, and status then click save book.Then user can either click Home button to return to home screen or Library button to see books saved in the display screen title, authors name, genre, and page count.Last use Quit button to exit.
 
 Why would anyone want to use the software over existing processes? The software simple and easy to use for small collection of books but for a large collecting program will slow down.
+
+Part 2 – Linear Data Structures: Create a linkedlist to save new books to the queue and use hashmap. I add more buttons and changed UI, no status or textArea add.
+
+
+Part 3 – Trees, Graphs, and Hashing:
+Author's last name in ABC order in display add description and status input, add header for each  title, authors name, genre, page count, and status libaryofReigh.txt
